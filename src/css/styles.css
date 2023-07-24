@@ -1,0 +1,27 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .loader,
+  .error {
+    display: none;
+    text-align: center;
+  }
+
+
+  .cat-info img {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+
+  .cat-info h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+
+  .cat-info p {
+    font-size: 16px;
+  }
